@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/graf-zer0/file-metadata-checker/issues"
   },
-  "homepage": "https://github.com/graf-zer0/file-metadata-checker#readme"
+  "homepage": "https://github.com/graf-zer0/file-metadata-checker#readme",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
 }

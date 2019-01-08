@@ -13,7 +13,7 @@ const fs = require('fs')
 * used to sending HTML without express
 */
 
-const parseHtml = (html) => fs.readFileSync(html,(err,file) => {
+const parseHtml = (html) => fs.readFileSync(html, (err,file) => {
   if(err) throw err;
   return file.toString()
 })
