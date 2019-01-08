@@ -1,0 +1,24 @@
+{
+  "name": "file_metadata",
+  "version": "1.0.0",
+  "description": "simple app for checking basic info about file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graf-zer0/file-metadata-checker.git"
+  },
+  "keywords": [
+    "freccodecamp",
+    "file-checker",
+    "file-metadata"
+  ],
+  "author": "graf0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graf-zer0/file-metadata-checker/issues"
+  },
+  "homepage": "https://github.com/graf-zer0/file-metadata-checker#readme"
+}
